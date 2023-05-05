@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197887995955",
+    "firebase_url": "https://usuplaces2023-default-rtdb.firebaseio.com",
+    "project_id": "usuplaces2023",
+    "storage_bucket": "usuplaces2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197887995955:android:7db918bd22abb58396b346",
+        "android_client_info": {
+          "package_name": "com.example.usuplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197887995955-2r6m7e9bsavinedhbte0kv7d32j8lm5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtgJbs0OoNkLoraOuk7LTL01Xzm3uFXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197887995955-2r6m7e9bsavinedhbte0kv7d32j8lm5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
